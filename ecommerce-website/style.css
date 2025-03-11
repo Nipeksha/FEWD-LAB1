@@ -1,0 +1,7 @@
+.product-image {
+    width: 700px;  /* Set a fixed width */
+    height: 600px; /* Set a fixed height */
+    object-fit: cover; /* Ensures the image fills the space without distortion */
+    display: block;
+    margin: auto;
+}
